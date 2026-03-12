@@ -1,6 +1,6 @@
 import java.util.*;
 
-class week1 {
+class week1_2 {
 
     private HashMap<String, Integer> stock = new HashMap<>();
     private LinkedHashMap<Integer, String> waitingList = new LinkedHashMap<>();
